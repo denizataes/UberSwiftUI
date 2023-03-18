@@ -20,6 +20,7 @@
 		A005513929C392F700D4D5F4 /* LocationSearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005513829C392F700D4D5F4 /* LocationSearchViewModel.swift */; };
 		A005513B29C5D79C00D4D5F4 /* MapViewState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005513A29C5D79C00D4D5F4 /* MapViewState.swift */; };
 		A005513E29C5F7EF00D4D5F4 /* RideRequestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005513D29C5F7EF00D4D5F4 /* RideRequestView.swift */; };
+		A005514029C60A4500D4D5F4 /* RideType.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005513F29C60A4500D4D5F4 /* RideType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		A005513829C392F700D4D5F4 /* LocationSearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchViewModel.swift; sourceTree = "<group>"; };
 		A005513A29C5D79C00D4D5F4 /* MapViewState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewState.swift; sourceTree = "<group>"; };
 		A005513D29C5F7EF00D4D5F4 /* RideRequestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideRequestView.swift; sourceTree = "<group>"; };
+		A005513F29C60A4500D4D5F4 /* RideType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 			isa = PBXGroup;
 			children = (
 				A005513A29C5D79C00D4D5F4 /* MapViewState.swift */,
+				A005513F29C60A4500D4D5F4 /* RideType.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A005513929C392F700D4D5F4 /* LocationSearchViewModel.swift in Sources */,
+				A005514029C60A4500D4D5F4 /* RideType.swift in Sources */,
 				A005513529C273A000D4D5F4 /* LocationSearchView.swift in Sources */,
 				A005512B29BFE76A00D4D5F4 /* LocationManager.swift in Sources */,
 				A005513E29C5F7EF00D4D5F4 /* RideRequestView.swift in Sources */,
