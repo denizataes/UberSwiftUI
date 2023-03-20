@@ -22,6 +22,7 @@
 		A005513E29C5F7EF00D4D5F4 /* RideRequestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005513D29C5F7EF00D4D5F4 /* RideRequestView.swift */; };
 		A005514029C60A4500D4D5F4 /* RideType.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005513F29C60A4500D4D5F4 /* RideType.swift */; };
 		A0EEFC6229C8E9E40071F439 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0EEFC6129C8E9E40071F439 /* Double.swift */; };
+		A0EEFC6429C8ED760071F439 /* UberLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0EEFC6329C8ED760071F439 /* UberLocation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		A005513D29C5F7EF00D4D5F4 /* RideRequestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideRequestView.swift; sourceTree = "<group>"; };
 		A005513F29C60A4500D4D5F4 /* RideType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideType.swift; sourceTree = "<group>"; };
 		A0EEFC6129C8E9E40071F439 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
+		A0EEFC6329C8ED760071F439 /* UberLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UberLocation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 			children = (
 				A005513A29C5D79C00D4D5F4 /* MapViewState.swift */,
 				A005513F29C60A4500D4D5F4 /* RideType.swift */,
+				A0EEFC6329C8ED760071F439 /* UberLocation.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 				A005513329C271A300D4D5F4 /* MapViewActionButton.swift in Sources */,
 				A005511129BFE0D400D4D5F4 /* UberSwiftUIApp.swift in Sources */,
 				A005512929BFE62800D4D5F4 /* UberMapViewRepresentable.swift in Sources */,
+				A0EEFC6429C8ED760071F439 /* UberLocation.swift in Sources */,
 				A005512729BFE5D300D4D5F4 /* HomeView.swift in Sources */,
 				A005513129C2707D00D4D5F4 /* LocationSearchActivationView.swift in Sources */,
 				A005513729C275F700D4D5F4 /* LocationSearchResultCell.swift in Sources */,
